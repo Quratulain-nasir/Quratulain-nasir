@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 💬 Ask me about **Html CSS Javascript Bootstarap Git React Node React**
+- 💬 Ask me about **Html CSS Javascript Bootstarap Git React Node React MongoDB**
 
 - 📫 How to reach me **annienasir203@gmail.com**
 
